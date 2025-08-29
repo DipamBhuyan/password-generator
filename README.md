@@ -13,7 +13,7 @@ A website that will be able to generate unique passwords and save the password i
   * Password Generater form: It is used to generate unique passwords.
   * Password Saver form: It is used to save the password.
 ## Demo
-* [Live Deployement](https://dipambhuyan.github.io/pwdgenerator.github.io/)
+* [Live Deployement](https://dipambhuyan.github.io/password-generator/)
 ## Author
 * [Dipam Bhuyan](https://github.com/DipamBhuyan/)
 ## Show your support
